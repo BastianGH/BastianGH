@@ -45,6 +45,6 @@ I am a Full Stack developer.
 
 ### Stats 📈
 
-<img align="left" width="47%" height="350px" src="https://github-readme-stats.vercel.app/api?username=PUSSEYBastian&hide=stars&show_icons=true&theme=blueberry" />
+<img align="left" width="47%" height="350px" src="https://github-readme-stats.vercel.app/api?username=BastianGH&hide=stars&show_icons=true&theme=blueberry" />
 
-<img align="left" width="47%" height="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PUSSEYBastian&layout=compact&theme=blueberry" />
+<img align="left" width="47%" height="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BastianGH&layout=compact&theme=blueberry" />
